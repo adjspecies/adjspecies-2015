@@ -990,8 +990,8 @@ footer.entry-meta {
 .format-chat .entry-content .page-links a,
 .format-quote .entry-content .page-links a,
 .page-links a {
-	background: #e63f2a;
-	border: 1px solid #e63f2a;
+	background: #1982d1;
+	border: 1px solid #1982d1;
 	color: #fff;
 }
 
@@ -1003,7 +1003,7 @@ footer.entry-meta {
 .format-quote .entry-content .page-links a:hover,
 .page-links a:hover {
 	background: #fff;
-	color: #e63f2a;
+	color: #1982d1;
 }
 
 .format-status .entry-content .page-links > span,
@@ -1381,7 +1381,7 @@ footer.entry-meta {
 .format-quote .entry-content a,
 .format-quote .entry-meta a,
 .format-quote .linked {
-	color: #e63f2a;
+	color: #1982d1;
 }
 
 .format-quote .entry-content cite a {
@@ -1699,7 +1699,6 @@ footer.entry-meta {
 }
 
 .paging-navigation {
-	background-color: #e8e5ce;
 	padding: 40px 0;
 }
 
@@ -1725,7 +1724,7 @@ footer.entry-meta {
 }
 
 .paging-navigation .meta-nav {
-	background-color: #e63f2a;
+	background-color: #1982d1;
 	border-radius: 50%;
 	color: #fff;
 	display: inline-block;
