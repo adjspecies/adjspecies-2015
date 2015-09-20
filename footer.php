@@ -30,7 +30,7 @@
                 <div class="row bottom">
                     <div class="col-md-12">
                         <p>Powered by WordPress</p>
-                        <p>Content <a href="http://lib.jnsq.us/license/cc-by-nc-sa" target="_blank"><img src="http://lib.jnsq.us/licenses/small/by-nc-sa_inline.png" alt="CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)"> [adjective][species], Ltd., 2011 - 2013</a> under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license</p>
+                        <p>Content <a href="http://lib.jnsq.us/license/cc-by-nc-sa" target="_blank"><img src="http://lib.jnsq.us/licenses/small/by-nc-sa_inline.png" alt="CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)"> [adjective][species], Ltd., 2011 - 2015</a> under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license</p>
                     </div>
                 </div>
             </footer>
