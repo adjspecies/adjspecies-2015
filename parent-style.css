@@ -1296,7 +1296,7 @@ footer.entry-meta {
 
 /* Gallery */
 .format-gallery {
-	background-color: #fbca3c;
+	background-color: #fbfbfb;
 }
 
 .format-gallery .entry-header {
@@ -1539,7 +1539,7 @@ footer.entry-meta {
  */
 
 .attachment .hentry {
-	background-color: #e8e5ce;
+	background-color: #eee;
 	margin: 0;
 	padding: 0;
 }
@@ -1826,7 +1826,7 @@ footer.entry-meta {
  */
 
 .archive-header {
-	background-color: #e8e5ce;
+	background-color: #eee;
 }
 
 .archive-title,
@@ -1857,7 +1857,7 @@ footer.entry-meta {
  */
 
 .page-header {
-	background-color: #e8e5ce;
+	background-color: #eee;
 }
 
 .page-title {
@@ -1901,7 +1901,7 @@ footer.entry-meta {
 }
 
 .error404 .page-title:before {
-	color: #e8e5ce;
+	color: #eee;
 	content: "\f423";
 	font-size: 964px;
 	line-height: 0.6;
@@ -1912,7 +1912,7 @@ footer.entry-meta {
 }
 
 .error404 .page-wrapper {
-	background-color: #e8e5ce;
+	background-color: #eee;
 }
 
 .error404 .page-header,
