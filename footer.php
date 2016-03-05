@@ -14,23 +14,27 @@
         
             <footer class="adjspecies-footer container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <strong>Micro-About</strong>
-                        <p>[adjective][species] is a blog that takes a look at the furry fandom from the inside. The writings here may poke fun at furry occasionally but mean no harm. Please feel free to comment on any of them, but play nice.</p>
+                        <p>[adjective][species] is a blog that takes a look at the furry fandom from the inside. The writings here come from a wide variety of furry authors, and cover any and all meta-furry topics that we can get our paws on.</p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                        <strong>Code of Conduct</strong>
+                        <p>[adjective][species] is goverened by the <a href="/code-of-conduct">[a][s] Code of Conduct</a>.</p>
+                    </div>
+                    <div class="col-md-3">
                         <strong>Contributing</strong>
-                        <p>If you'd like to contribute writing or art to the blog in some way, let us know with a sample or idea and we'll see about fitting you in.</p>
+                        <p>If you'd like to contribute writing or art to the blog in some way, <a href="/contributing">let us know</a> with a sample or idea and we'll see about fitting you in.</p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <strong>Copyright Information</strong>
-                        <p>Unless otherwise stated, all content belongs to the author and is licensed under a Creative Commons BY-NC-SA 3.0 license.</p>
+                        <p>Unless otherwise stated, all content belongs to the author and is licensed under a Creative Commons BY-NC-SA 4.0 license. <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution" target="_blank">Learn about attribution.</a></p>
                     </div>
                 </div>
                 <div class="row bottom">
                     <div class="col-md-12">
                         <p>Powered by WordPress</p>
-                        <p>Content <a href="http://lib.jnsq.us/license/cc-by-nc-sa" target="_blank"><img src="http://lib.jnsq.us/licenses/small/by-nc-sa_inline.png" alt="CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)"> [adjective][species], Ltd., 2011 - 2015</a> under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license</p>
+                        <p>Content <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /> [adjective][species], Ltd., 2011 - 2016</a> under the Creative Commons BY-NC-SA (Attribution-NonCommercial-ShareAlike) license</p>
                     </div>
                 </div>
             </footer>
