@@ -74,6 +74,7 @@
                         <li><a href="/">Home</a></li>
                         <li><a href="/contributing">Contributing</a></li>
                         <li><a href="/about">About</a></li>
+			<li><a href="/code-of-conduct">Code of Conduct</a></li>
                     </ul>
                     <div class="navbar-form navbar-right">
                         <?php get_search_form(); ?>
