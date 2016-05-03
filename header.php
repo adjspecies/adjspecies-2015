@@ -50,7 +50,7 @@
                     <div class="navbar-collapse collapse" id="adjspecies-main-nav">
                         <ul class="nav navbar-nav">
                             <li><a href="http://lovesexfur.com">Love &#9702; Sex &#9702; Fur</a></li>
-                            <li><a href="https://furrypoll.com">2015 Furry Poll</a></li>
+                            <li><a href="https://furrypoll.com">2016 Furry Poll</a></li>
                             <li><a href="http://survey.adjectivespecies.com">Surveys</a></li>
                             <li><a href="http://vis.adjectivespecies.com">Visualizations</a></li>
                             <li><a href="https://twitter.com/adjspecies">Twitter</a></li>
